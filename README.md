@@ -1,1 +1,1 @@
-# Wholesales-Customer-Segmentation
+# Wholesale-Customer-Segmentation
